@@ -17,7 +17,7 @@ _Use Case 3: Existing Certificates with Custom Root CA_
 | Domain         | ds-inovasi.com                            |
 | Kerberos Realm | DS-INOVASI.COM                            |
 | Root CA        | RootCA-DSI (self-signed, 5-year validity) |
-| Prepared by    | DS-Inovasi Infrastructure Team            |
+| Prepared by    | DS-Inovasi Sysadmin Team            |
 | Date           | May 4, 2026                               |
 | Classification | INTERNAL - CONFIDENTIAL                   |
 
