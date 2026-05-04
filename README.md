@@ -784,8 +784,8 @@ chown cloudera-scm:cloudera-scm /opt/cloudera/AutoTLS
 
 | **Version** | **Date**    | **Author**     | **Changes**                                               |
 | ----------- | ----------- | -------------- | --------------------------------------------------------- |
-| 1.0         | May 4, 2026 | DSI Infra Team | Initial release - Auto-TLS Use Case 3 with new RootCA-DSI |
+| 1.0         | May 4, 2026 | Andri - Sysadmin Team | Initial release - Auto-TLS Use Case 3 with new RootCA-DSI |
 
 _- End of Document -_
 
-DS-Inovasi Infrastructure Team | Internal Document - Confidential
+DS-Inovasi Sysadmin Team | Internal Document - Confidential
